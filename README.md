@@ -11,7 +11,7 @@ I would like you to help me identify and fix potential security flaws and vulner
 4. Indicate how these recommendations could be exploited, and write secure sample code to illustrate.
 ```
 ***
-<a class="heading-link" href="#warning"># Warning for use</a>
+# Warning for use
 
 In summary, I think that using a GenAI can be useful for security analysts writing user stories to reduce the extra work for developers and security professionals during the initial documentation of a requirement. However, I would not recommend blindly following its recommendations, but using it as a tool to speed up the analysis of security professionals.
 
