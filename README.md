@@ -1,6 +1,5 @@
 # awesome-promptbook
-Before you continue, I recommend that you read the following <a href="#warning">warnings for use</a>
-<a name=“warning”></a> 
+Before you continue, I recommend that you read the following warnings for use
 
 ## Prompt for identifying and fixing security vulnerabilities in user stories
 > This prompt uses Generative AI as a security wizard to analyze user stories written by product owners and identify potential weaknesses and security vulnerabilities that should be avoided during implementation. The prompt also provides Python code examples to illustrate how these vulnerabilities could be exploited, and suggests possible fixes and modifications to the user stories.
@@ -12,7 +11,7 @@ I would like you to help me identify and fix potential security flaws and vulner
 4. Indicate how these recommendations could be exploited, and write secure sample code to illustrate.
 ```
 ***
-[# Warning for use] (#warning)
+# Warning for use
 
 In summary, I think that using a GenAI can be useful for security analysts writing user stories to reduce the extra work for developers and security professionals during the initial documentation of a requirement. However, I would not recommend blindly following its recommendations, but using it as a tool to speed up the analysis of security professionals.
 
