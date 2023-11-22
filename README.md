@@ -11,6 +11,12 @@ I would like you to help me identify and fix potential security flaws and vulner
 4. Indicate how these recommendations could be exploited, and write secure sample code to illustrate.
 ```
 ***
+## Prompt to draw a diagram in the presentation
+> This prompt uses generative AI as a security assistant to analyse user stories or articles written by faculty and identify the pattern for writing the presentation.
+```
+I would like you to help me, draw a Marmeid diagram from a user story or article I will point you to. Explain step by step in eli5. I am a cybersecurity professional and I would like you to do the diagram in talk presentation
+```
+***
 # Warning for use
 
 In summary, I think that using a GenAI can be useful for security analysts writing user stories to reduce the extra work for developers and security professionals during the initial documentation of a requirement. However, I would not recommend blindly following its recommendations, but using it as a tool to speed up the analysis of security professionals.
