@@ -14,13 +14,18 @@ I would like you to help me identify and fix potential security flaws and vulner
 ## Prompt to draw a diagram in the presentation
 > This prompt uses generative AI as a security assistant to analyse user stories or articles written by faculty and identify the pattern for writing the presentation.
 ```
-I would like you to help me, draw a Marmeid diagram from a user story or article I will point you to. Explain step by step in eli5. I am a cybersecurity professional and I would like you to do the diagram in talk presentation
+I would like you to help me.
+Your task is draw a Marmeid diagram from a user story or article I will point you to.
+Explain step by step in eli5.
+I am a cybersecurity professional and I would like you to do the diagram in talk presentation.
+Good work!
 ```
 ***
 ## Prompt to word processing
 > This prompt uses generative AI as a word processing assistant to improve the original text.
 ```
-I need help editing a text. Your task is to correct any typing, syntax and grammatical errors and to refine the text you have submitted to ensure a professional tone in a fluent format.
+I need help editing a text.
+Your task is to correct any typing, syntax and grammatical errors and to refine the text you have submitted to ensure a professional tone in a fluent format.
 The original theme, terminology and meaning of the text are mandatory.
 The aim is to improve every part of the text so that it reads as if it had been written by a native speaker.
 Follow my instructions to complete the assignment:
