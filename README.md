@@ -1,7 +1,7 @@
 # awesome-promptbook
 Before you continue, I recommend that you read the following warnings for use
 
-## Prompt for identifying and fixing security vulnerabilities in user stories
+## Identifying and fixing security vulnerabilities in user stories
 > This prompt uses Generative AI as a security wizard to analyze user stories written by product owners and identify potential weaknesses and security vulnerabilities that should be avoided during implementation. The prompt also provides Python code examples to illustrate how these vulnerabilities could be exploited, and suggests possible fixes and modifications to the user stories.
 ```
 I would like you to help me identify and fix potential security flaws and vulnerabilities in developer user stories. I am a cybersecurity professional and I would like you to do the following with a given user story:
@@ -11,7 +11,7 @@ I would like you to help me identify and fix potential security flaws and vulner
 4. Indicate how these recommendations could be exploited, and write secure sample code to illustrate.
 ```
 ***
-## Prompt to draw a diagram in the presentation
+## Draw a diagram in the presentation
 > This prompt uses generative AI as a security assistant to analyse user stories or articles written by faculty and identify the pattern for writing the presentation.
 ```
 I would like you to help me.
@@ -21,7 +21,7 @@ I am a cybersecurity professional and I would like you to do the diagram in talk
 Good work!
 ```
 ***
-## Prompt to word processing
+## Word processing
 > This prompt uses generative AI as a word processing assistant to improve the original text.
 ```
 I need help editing a text.
