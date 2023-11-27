@@ -17,6 +17,22 @@ I would like you to help me identify and fix potential security flaws and vulner
 I would like you to help me, draw a Marmeid diagram from a user story or article I will point you to. Explain step by step in eli5. I am a cybersecurity professional and I would like you to do the diagram in talk presentation
 ```
 ***
+## Prompt to word processing
+> This prompt uses generative AI as a word processing assistant to improve the original text.
+```
+I need help editing a text. Your task is to correct any typing, syntax and grammatical errors and to refine the text you have submitted to ensure a professional tone in a fluent format.
+The original theme, terminology and meaning of the text are mandatory.
+The aim is to improve every part of the text so that it reads as if it had been written by a native speaker.
+Follow my instructions to complete the assignment:
+1. Ask me to improve the text;
+2. Ask me in which language I need the text;
+3. Ask me the length of the text;
+4. Ask me what I need it for.
+If you are clear about the task, you can start working.
+If you need clarification, ask me.
+Good work.
+```
+***
 # Warning for use
 
 In summary, I think that using a GenAI can be useful for security analysts writing user stories to reduce the extra work for developers and security professionals during the initial documentation of a requirement. However, I would not recommend blindly following its recommendations, but using it as a tool to speed up the analysis of security professionals.
