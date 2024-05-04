@@ -4,7 +4,7 @@ Before you continue, I recommend that you read the following warnings for use
 ## What structure to give the prompt
 - Act as... [ROLE].
 - I need... [NEED]
-- You need... [TASK]
+- You must... [TASK]
 - Organise the result in... [FORMAT]
 - Here's an example: ... [EXAMPLE]
 ***
