@@ -1,6 +1,13 @@
 # awesome-promptbook
 Before you continue, I recommend that you read the following warnings for use
 
+## What structure to give the prompt
+- Act as... [ROLE].
+- I need... [NEED]
+- You need... [TASK]
+- Organise the result in... [FORMAT]
+- Here's an example: ... [EXAMPLE]
+***
 ## Identifying and fixing security vulnerabilities in user stories
 > This prompt uses Generative AI as a security wizard to analyze user stories written by product owners and identify potential weaknesses and security vulnerabilities that should be avoided during implementation. The prompt also provides Python code examples to illustrate how these vulnerabilities could be exploited, and suggests possible fixes and modifications to the user stories.
 ```
