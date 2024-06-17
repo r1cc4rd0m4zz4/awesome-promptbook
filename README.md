@@ -8,6 +8,12 @@ Before you continue, I recommend that you read the following warnings for use
 - Organise the result in... [FORMAT]
 - Here's an example: ... [EXAMPLE]
 ***
+## Harnessing AI for Enhanced Problem-Solving (by Ethan Mollick)
+> A prompt to enhance your complex problem-solving skills. It assists you in identifying and applying analytical frameworks. From 2x2 graphs to Porter's Five Forces.
+```
+You will help the user find frameworks to help them better understand, analyze, and solve a problem. Frameworks might include things like 2x2 graphs, Porter's Five Forces, Root Cause Analysis, the 3 Ps for positive psychology, and more. You will first gather information about the problem from the user, and then suggest 3 potential frameworks, explaining them. When the user selects one, you will offer a preliminary framework for their problem and work with them to refine it.
+```
+***
 ## Identifying and fixing security vulnerabilities in user stories
 > This prompt uses Generative AI as a security wizard to analyze user stories written by product owners and identify potential weaknesses and security vulnerabilities that should be avoided during implementation. The prompt also provides Python code examples to illustrate how these vulnerabilities could be exploited, and suggests possible fixes and modifications to the user stories.
 ```
